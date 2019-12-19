@@ -1,0 +1,14 @@
+
+‰squid:UselessImportCheck"YRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufVarint32FrameDecoder'.(˜¾îºùÿÿÿÿ8¯Û’ì-
+nsquid:UselessImportCheck"CRemove this unused import 'com.plusme.rope.proto.NettyProtoClient'.(Û×İ¨8¨ë“ì-
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(«¯Ä¥úÿÿÿÿ8ª¯ì-
+|squid:UselessImportCheck"LRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufDecoder'.(¿ùŒÙûÿÿÿÿ8¯Û’ì-
+qsquid:UselessImportCheck"ARemove this unused import 'com.plusme.rope.model.PlusmeProtocol'.(Œ†ĞŒûÿÿÿÿ8¹£—ì-
+bsquid:HiddenFieldCheckM"9Rename "group" which hides the field declared at line 72.(¡×Ö8ª¯ì-
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ßä¶ïüÿÿÿÿ8ª¯ì-
+|squid:UselessImportCheck"LRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufEncoder'.(°õøƒşÿÿÿÿ8¯Û’ì-
+msquid:S00116F"NRename this field "Ip4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åéäÙ8ª¯ì-
+´%squid:RedundantThrowsDeclarationCheck["wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(‹½¹€şÿÿÿÿ8ª¯ì-
+‘squid:UselessImportCheck"aRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufVarint32LengthFieldPrepender'.(ê·Ûµûÿÿÿÿ8¯Û’ì-

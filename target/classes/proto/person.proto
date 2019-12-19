@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "com.plusme.rope.model";
+
+option java_outer_classname = "PersonModel";
+
+message Person {
+    int32 id = 1;
+    string name = 2;
+    string email = 3;
+}

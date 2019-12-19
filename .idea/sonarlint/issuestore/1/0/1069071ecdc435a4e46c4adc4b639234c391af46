@@ -1,0 +1,14 @@
+
+Fsquid:S1604."(Make this anonymous inner class a lambda(ÉãÃ®8¥Öˆªì-
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.( õûäıÿÿÿÿ8›Úå«ì-
+Xsquid:S1191
+"5Use classes from the Java API instead of Sun classes.(‘İÜ­ÿÿÿÿÿ8ôñØ«ì-
+dsquid:S2142@"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ñèˆªì-
+isquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(Ô¤îà8íæìë-
+osquid:UselessImportCheck"?Remove this unused import 'java.util.concurrent.ThreadFactory'.(ã’Ÿºúÿÿÿÿ8ÊÂÛ«ì-
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(İËÂìûÿÿÿÿ8½››ªì-
+fsquid:UselessImportCheck
+"6Remove this unused import 'sun.misc.ThreadGroupUtils'.(‘İÜ­ÿÿÿÿÿ8ÊÂÛ«ì-
+Fsquid:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ñèˆªì-

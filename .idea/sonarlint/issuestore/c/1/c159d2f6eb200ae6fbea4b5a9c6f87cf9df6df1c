@@ -1,0 +1,54 @@
+
+esquid:HiddenFieldCheckÅ"BRename "socketWrapper" which hides the field declared at line 545.(¢Ûå¤
+Bsquid:S1181é"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Rsquid:S1141ß"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141¢"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Bsquid:S1181á"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Bsquid:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Q
+squid:S899´":Do something with the "boolean" value returned by "await".(ğ›Í¥
+Bsquid:S00108¦")Either remove or fill this block of code.(ìŠÈ
+jsquid:S3776á"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ß²Ùè
+osquid:S3776ï"RRefactor this method to reduce its Cognitive Complexity from 52 to the 15 allowed.(Ö¿ÉÑÿÿÿÿÿ
+jsquid:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(“–ış
+Bsquid:S00108Ò")Either remove or fill this block of code.(ìŠÈ
+Qsquid:S1854À"9Remove this useless assignment to local variable "state".(ÿ‹ğ
+jsquid:S3776²"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(“–ış
+Rsquid:S1141ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141è"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141¤"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141¡"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Rsquid:S1141À"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Gsquid:S1066ü"/Merge this if statement with the enclosing one.(“Å´Û
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ¼»ö
+Bsquid:S1181’"%Catch Exception instead of Throwable.(‹ìœáúÿÿÿÿ
+>squid:S3398†"!Move this method into "Acceptor".(ğ¨ïÚøÿÿÿÿ
+~squid:S2178®"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ŠøĞ
+Bsquid:S1181Ì"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+Bsquid:S1181´"%Catch Exception instead of Throwable.(€çØıÿÿÿÿÿ
+jsquid:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Œë·
+u
+squid:S135Œ"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+Gsquid:S1066Õ"/Merge this if statement with the enclosing one.(¸ßÄı
+^squid:S2142±"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Bsquid:S1181¨"%Catch Exception instead of Throwable.(€çØıÿÿÿÿÿ
+P
+squid:S106Ä"9Replace this use of System.out or System.err by a logger.(„ÛÈØ
+Gsquid:S00108µ")Either remove or fill this block of code.(­¤ß”øÿÿÿÿ
+Q
+squid:S899ó":Do something with the "boolean" value returned by "await".(Ä¤ÉÙ
+/squid:S2176¢"Rename this class.(¾úĞ¯ÿÿÿÿÿ
+|squid:S1488¡	"_Immediately return this expression instead of assigning it to the temporary variable "isReady".(Éİòıùÿÿÿÿ
+Fsquid:S1066û"/Merge this if statement with the enclosing one.(Úİ&
+Bsquid:S1181ı"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+Bsquid:S00108ø")Either remove or fill this block of code.(ìŠÈ
+esquid:S2095‚"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(üºˆÃ
+Gsquid:S1066Ú"/Merge this if statement with the enclosing one.(óúôŞ
+asquid:S1134ï"DTake the required action to fix the issue indicated by this comment.(õïÒºûÿÿÿÿ
+csquid:S2142µ"FEither re-interrupt this method or rethrow the "InterruptedException".(­¤ß”øÿÿÿÿ
+Rsquid:S1141ò"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+jsquid:S3776Š"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(“–ış
+isquid:S3776È"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ş©Ø/
+osquid:S3776›"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(‡‘û°ùÿÿÿÿ
+Bsquid:S1181Õ"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ

@@ -1,0 +1,39 @@
+
+nsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(ˆØÆéûÿÿÿÿ8éµèçí-
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ºÛ—üÿÿÿÿ8éµèçí-
+Qsquid:S1068"3Remove this unused "SESSION_TIMEOUT" private field.(Ê«†ç8éµèçí-
+Fsquid:S16049"(Make this anonymous inner class a lambda(ìö¹¡8éµèçí-
+xsquid:S3008"ZRename this field "SESSION_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê«†ç8çòÀí-
+nsquid:CommentedOutCodeLinee"<This block of commented-out lines of code should be removed.(ã¯¤Åüÿÿÿÿ8éµèçí-
+Fsquid:S11483"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8éµèçí-
+isquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(š§ìé8éµèçí-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÝËÂìûÿÿÿÿ8éµèçí-
+dsquid:S21422"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8éµèçí-
+|squid:S3008"YRename this field "CONNECT_SERVER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÒÛ‘ÿÿÿÿÿ8çòÀí-
+Ssquid:S1191
+"5Use classes from the Java API instead of Sun classes.(üÂù»8éµèçí-
+isquid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(ÏÓ¾”8éµèçí-
+{squid:S3008"]Rename this field "CONNECTION_TIMEOUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¹Œ‘8óõÀËí-
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ºÛ—üÿÿÿÿ8éµèçí-
+nsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(¼÷ãäùÿÿÿÿ8éµèçí-
+Psquid:S1068"-Remove this unused "zooKeeper" private field.(©É‡éÿÿÿÿÿ8éµèçí-
+Isquid:S1481B"&Remove this unused "s" local variable.(ÒÊÊþùÿÿÿÿ8éµèçí-
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.( õûäýÿÿÿÿ8éµèçí-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ýÃÖÁþÿÿÿÿ8éµèçí-
+isquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(ï‚²«8éµèçí-
+nsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(§àÏ´ùÿÿÿÿ8éµèçí-
+Jsquid:S1068",Remove this unused "zkClient" private field.(æŒÜ¼8éµèçí-
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ÏŠñðýÿÿÿÿ8éµèçí-
+csquid:UselessImportCheck
+"8Remove this unused import 'sun.nio.cs.StandardCharsets'.(üÂù»8éµèçí-
+Fsquid:S1604!"(Make this anonymous inner class a lambda(ÉãÃ®8éµèçí-
+Tsquid:S1068"6Remove this unused "CONNECTION_TIMEOUT" private field.(ö¹Œ‘8éµèçí-
+Xsquid:S1854B"5Remove this useless assignment to local variable "s".(ÒÊÊþùÿÿÿÿ8éµèçí-
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(®ÝØ™þÿÿÿÿ8éµèçí-

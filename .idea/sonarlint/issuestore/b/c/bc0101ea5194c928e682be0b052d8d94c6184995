@@ -1,0 +1,20 @@
+
+‰squid:UselessImportCheck"YRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufVarint32FrameDecoder'.(˜¾îºùÿÿÿÿ8Ä²˜¨ì-
+msquid:S00116P"NRename this field "Ip4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åéäÙ8¥ã•¨ì-
+nsquid:UselessImportCheck"CRemove this unused import 'com.plusme.rope.proto.NettyProtoClient'.(Û×İ¨8üò™¨ì-
+bsquid:HiddenFieldCheckW"9Rename "group" which hides the field declared at line 82.(¡×Ö8¥ã•¨ì-
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ßä¶ïüÿÿÿÿ8¥ã•¨ì-
+¡squid:UselessImportCheck"qRemove this unused import 'jdk.management.resource.internal.inst.UnixAsynchronousServerSocketChannelImplRMHooks'.(¦Ç§úıÿÿÿÿ8ö–¾¨ì-
+|squid:UselessImportCheck"LRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufDecoder'.(¿ùŒÙûÿÿÿÿ8Ä²˜¨ì-
+‘squid:UselessImportCheck"aRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufVarint32LengthFieldPrepender'.(ê·Ûµûÿÿÿÿ8Ä²˜¨ì-
+xsquid:UselessImportCheck"HRemove this unused import 'io.netty.handler.codec.string.StringDecoder'.(ºôÅ«úÿÿÿÿ8¾æÊ¨ì-
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.(«¯Ä¥úÿÿÿÿ8¥ã•¨ì-
+´%squid:RedundantThrowsDeclarationChecke"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(‹½¹€şÿÿÿÿ8¥ã•¨ì-
+|squid:UselessImportCheck"LRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufEncoder'.(°õøƒşÿÿÿÿ8Ä²˜¨ì-
+Wsquid:UselessImportCheck",Remove this unused import 'java.nio.Buffer'.(î¦Ïî8ö–¾¨ì-
+tsquid:UselessImportCheck"IRemove this unused import 'io.netty.handler.codec.LineBasedFrameDecoder'.(î»‚Ğ8¾æÊ¨ì-
+isquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(“¿â¿8Ÿ„Å¨ì-
+qsquid:UselessImportCheck"ARemove this unused import 'com.plusme.rope.model.PlusmeProtocol'.(Œ†ĞŒûÿÿÿÿ8ëö›¨ì-
+™"squid:ClassVariableVisibilityCheck!"_Make internalReadHandler a static final constant or non-public and provide accessors if needed.(êà‡†ûÿÿÿÿ8¥ã•¨ì-

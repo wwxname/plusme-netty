@@ -1,0 +1,6 @@
+
+nsquid:UselessImportCheck"CRemove this unused import 'io.netty.channel.ChannelHandlerAdapter'.(Şñ½„8£àíì-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ8µÔîì-
+@squid:S1148"#Use a logger to log this exception.(ã¦“8»®¯ì-
+xsquid:UselessImportCheck"HRemove this unused import 'io.netty.handler.codec.http.FullHttpRequest'.(¹¨Àâûÿÿÿÿ8Îîì-

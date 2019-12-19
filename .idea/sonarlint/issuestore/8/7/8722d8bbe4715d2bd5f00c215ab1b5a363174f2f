@@ -1,0 +1,16 @@
+
+?squid:S1604"(Make this anonymous inner class a lambda(ÉãÃ®
+˜squid:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö³µ‘
+?squid:S1148x"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+U
+squid:S106^"9Replace this use of System.out or System.err by a logger.(Ğİ°c8¢–ê½í-
+T
+squid:S106p"9Replace this use of System.out or System.err by a logger.(”§úÿÿÿÿ
+˜squid:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü³Í
+?squid:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+]squid:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+V
+squid:S106]"9Replace this use of System.out or System.err by a logger.(şìûï8¹¬Ù½í-
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿£ê
+Bsquid:S1168@"+Return an empty collection instead of null.(¥¹ï
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£»¢èüÿÿÿÿ

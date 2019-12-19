@@ -1,0 +1,10 @@
+
+dsquid:S2142="FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“Öí¶ì-
+Fsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8“Öí¶ì-
+Fsquid:S1604+"(Make this anonymous inner class a lambda(ÉãÃ®8“Öí¶ì-
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(…È¿’ÿÿÿÿÿ8èˆ½¶ì-
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(İËÂìûÿÿÿÿ8“Öí¶ì-
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.( õûäıÿÿÿÿ8“Öí¶ì-

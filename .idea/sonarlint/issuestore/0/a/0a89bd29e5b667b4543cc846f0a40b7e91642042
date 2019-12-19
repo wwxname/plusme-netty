@@ -1,0 +1,61 @@
+
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(‹˜8—àù¤ì-
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(‰ÀÜÓûÿÿÿÿ8æ”Ÿ¥ì-
+Qsquid:S1481«"-Remove this unused "released" local variable.(¤­Í’üÿÿÿÿ8’Ñ½¥ì-
+dsquid:S2259"EA "NullPointerException" could be thrown; "channel" is nullable here.(¾Èß8£Ñí¥ì-
+nsquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(Ôˆ¢µúÿÿÿÿ8½í¡¥ì-
+zsquid:S1192@"WDefine a constant instead of duplicating this literal "Netty in Action rocks!" 3 times.(‰—ã«ÿÿÿÿÿ8’Ñ½¥ì-
+Tsquid:S1905"6Remove this unnecessary cast to "UnpooledHeapByteBuf".(œƒˆÔ8ïƒ¤ì-
+\squid:S1854"=Remove this useless assignment to local variable "allocator".(¾Èß8£Ñí¥ì-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(äøÿÿÿÿ8Š‰û¤ì-
+V
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ÉÏ½®8’Ñ½¥ì-
+V
+squid:S106a"9Replace this use of System.out or System.err by a logger.(·Ù‚²8ÀáÏ¥ì-
+V
+squid:S106i"9Replace this use of System.out or System.err by a logger.(ÿôÜê8ÊÉ¥ì-
+[
+squid:S106}"9Replace this use of System.out or System.err by a logger.(Û—óÎıÿÿÿÿ8ÅÚş¥ì-
+`squid:HiddenFieldCheck6"7Rename "buf" which hides the field declared at line 18.(¯äµŠ8ò†„¥ì-
+`squid:S1854«"<Remove this useless assignment to local variable "released".(¤­Í’üÿÿÿÿ8’Ñ½¥ì-
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(˜¦®Î8ÇÌº¥ì-
+`squid:HiddenFieldCheck|"7Rename "buf" which hides the field declared at line 18.(‘ŞÛÓ8Àÿı¥ì-
+[
+squid:S106J"9Replace this use of System.out or System.err by a logger.(×»¹ııÿÿÿÿ8˜é¢¥ì-
+usquid:S001178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÁÁ‰ÿÿÿÿÿ8±Ä¥ì-
+W
+squid:S106…"9Replace this use of System.out or System.err by a logger.(¡Çâå8´ô§ì-
+bsquid:S1854’">Remove this useless assignment to local variable "allocator2".(´æÅıÿÿÿÿ8£Ñí¥ì-
+isquid:CommentedOutCodeLine{"<This block of commented-out lines of code should be removed.(¨“í•8ÅÚş¥ì-
+Ssquid:S1481’"/Remove this unused "allocator2" local variable.(´æÅıÿÿÿÿ8£Ñí¥ì-
+isquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(ÁÇ‡›8³ÎË¥ì-
+Ä%squid:RedundantThrowsDeclarationCheck"‹Remove the declaration of thrown exception 'com.google.protobuf.InvalidProtocolBufferException', as it cannot be thrown from method's body.(Æˆ¥Ÿ8İËŞ£ì-
+dsquid:S1192>"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(†Ä³²8’Ñ½¥ì-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ƒåîÿÿÿÿÿ8Òû›¤ì-
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(‹˜8­ö¤ì-
+esquid:HiddenFieldCheck*"7Rename "buf" which hides the field declared at line 18.(ÆÒÔşşÿÿÿÿ8ÇúÍ¤ì-
+dsquid:S2259œ"EA "NullPointerException" could be thrown; "channel" is nullable here.(¾Èß8³ÎË¥ì-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(òËÄ8«ˆ ¤ì-
+esquid:HiddenFieldCheckQ"7Rename "buf" which hides the field declared at line 18.(‰—ã«ÿÿÿÿÿ8ÇÌº¥ì-
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(öËƒ78ìÆñ¥ì-
+esquid:HiddenFieldCheck`"7Rename "buf" which hides the field declared at line 18.(‰—ã«ÿÿÿÿÿ8ÊÊ¥ì-
+Msquid:S1481".Remove this unused "allocator" local variable.(¾Èß8£Ñí¥ì-
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ÌĞ«¼üÿÿÿÿ8±Ä¥ì-
+V
+squid:S106f"9Replace this use of System.out or System.err by a logger.(ı»ñó8ÆÖÈ¥ì-
+esquid:HiddenFieldCheck@"7Rename "buf" which hides the field declared at line 18.(‰—ã«ÿÿÿÿÿ8æ”Ÿ¥ì-
+[
+squid:S106m"9Replace this use of System.out or System.err by a logger.(×»¹ııÿÿÿÿ8”ÜÑ¥ì-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü€ğ…úÿÿÿÿ8Ò™š¤ì-
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(Ëàñ“ùÿÿÿÿ8˜é¢¥ì-

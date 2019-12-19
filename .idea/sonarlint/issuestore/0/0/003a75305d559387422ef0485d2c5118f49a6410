@@ -1,0 +1,3 @@
+
+―%squid:RedundantThrowsDeclarationCheck	"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(‚ίΪÿ8•«§θλ-
+^squid:S1854";Remove this useless assignment to local variable "jsonStr".(αÒψÿÿÿÿÿ8¥τηλ-

@@ -1,0 +1,13 @@
+
+psquid:S3776<"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“–ış8æµèçí-
+Ksquid:S1604"(Make this anonymous inner class a lambda(û¼¶ıÿÿÿÿ8ÌØ»Ìì-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(°‚»İşÿÿÿÿ8§şŒÌì-
+Fsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„Æ‚Ìì-
+Esquid:S2189>""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8„Æ‚Ìì-
+Osquid:S1068",Remove this unused "executor" private field.(­×Ñüÿÿÿÿ8æµèçí-
+esquid:S00112$"FDefine and throw a dedicated exception instead of using a generic one.(×ûñÜ8„Æ‚Ìì-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(°‚»İşÿÿÿÿ8ŞÅÌì-
+Isquid:S1481="&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ8àÇ½öì-
+Fsquid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„Æ‚Ìì-

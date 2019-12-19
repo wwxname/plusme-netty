@@ -1,0 +1,7 @@
+
+|squid:UselessImportCheck"LRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufDecoder'.(¿ùŒÙûÿÿÿÿ8üœßì-
+‰squid:UselessImportCheck	"YRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufVarint32FrameDecoder'.(˜¾îºùÿÿÿÿ8Êğİì-
+‘squid:UselessImportCheck
+"aRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufVarint32LengthFieldPrepender'.(ê·Ûµûÿÿÿÿ8üœßì-
+qsquid:UselessImportCheck"ARemove this unused import 'com.plusme.rope.model.PlusmeProtocol'.(Œ†ĞŒûÿÿÿÿ8üœßì-
+|squid:UselessImportCheck"LRemove this unused import 'io.netty.handler.codec.protobuf.ProtobufEncoder'.(°õøƒşÿÿÿÿ8üœßì-

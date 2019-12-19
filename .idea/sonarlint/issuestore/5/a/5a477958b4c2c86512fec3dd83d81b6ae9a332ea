@@ -1,0 +1,24 @@
+
+_squid:HiddenFieldCheck¬"=Rename "executor" which hides the field declared at line 299.(µ•Ö}
+_squid:HiddenFieldCheckû"=Rename "executor" which hides the field declared at line 299.(µ•Ö}
+Isquid:S1135<"2Complete the task associated to this TODO comment.(¾µÄ
+^squid:S00112˜"FDefine and throw a dedicated exception instead of using a generic one.(šû»1
+_squid:HiddenFieldCheckÇ"=Rename "executor" which hides the field declared at line 299.(µ•Ö}
+_squid:S00112™"FDefine and throw a dedicated exception instead of using a generic one.(¡ñÍÁ
+ssquid:S00116‰"URename this field "SSLEnabled" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±•»òùÿÿÿÿ
+`squid:HiddenFieldCheckõ"=Rename "executor" which hides the field declared at line 299.(ü¶›«
+isquid:S3776–"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(“„÷H
+W
+squid:S106ø"9Replace this use of System.out or System.err by a logger.(¡ü†ÿ8Ó æ½í-
+^squid:S2142†"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+hsquid:CommentedOutCodeLine¥"<This block of commented-out lines of code should be removed.(â»—¼ùÿÿÿÿ
+_squid:HiddenFieldCheckÛ"=Rename "executor" which hides the field declared at line 299.(µ•Ö}
+_squid:S00112›"FDefine and throw a dedicated exception instead of using a generic one.(óó†—
+_squid:HiddenFieldCheck‘"=Rename "executor" which hides the field declared at line 299.(µ•Ö}
+Bsquid:S1181€"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+_squid:S00112š"FDefine and throw a dedicated exception instead of using a generic one.(Ú®Ò
+[squid:S1155ÿ">Use isEmpty() to check whether the collection is empty or not.(¯Šàûÿÿÿÿ
+osquid:S00117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş†êùÿÿÿÿ
+W
+squid:S106÷"9Replace this use of System.out or System.err by a logger.(Å‹î‚8½†Ò½í-
+^squid:S2142—"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

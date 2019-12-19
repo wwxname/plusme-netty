@@ -1,0 +1,7 @@
+
+Esquid:S1068"'Remove this unused "url" private field.(µ¬¼š8° çùë-
+ squid:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¤¶ö8òÒ†ıë-
+Nsquid:S2201N"+The return value of "replace" must be used.(ı±‚øúÿÿÿÿ8° çùë-
+hsquid:S1192{"KDefine a constant instead of duplicating this literal "Connection" 3 times.(ŸÏ 8àÏıë-
+lsquid:S2095q"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(ÇşÌñ8‡»şùë-
+Nsquid:S1068"0Remove this unused "INSECURE_URI" private field.(ëù¥£8° çùë-

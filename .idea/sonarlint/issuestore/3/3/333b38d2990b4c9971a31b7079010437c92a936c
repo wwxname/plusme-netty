@@ -1,0 +1,12 @@
+
+rsquid:S00115;"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚ˆ•›
+Hsquid:S1135"2Complete the task associated to this TODO comment.(¬ìßU
+]squid:S2147Ş"ECombine this catch with the one at line 220, which has the same body.(Ñ„—„
+csquid:S1192m"GDefine a constant instead of duplicating this literal ", got " 4 times.(ò’¡Éúÿÿÿÿ
+osquid:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(……¼¦ÿÿÿÿÿ
+Psquid:S11182":Add a private constructor to hide the implicit public one.(è¶§	
+]squid:S2147ö"ECombine this catch with the one at line 244, which has the same body.(Ñ„—„
+esquid:S1192m"IDefine a constant instead of duplicating this literal " instead" 4 times.(ò’¡Éúÿÿÿÿ
+dsquid:S1192î"GDefine a constant instead of duplicating this literal "name: " 3 times.(ê÷óşÿÿÿÿ
+asquid:S1192Á"JDefine a constant instead of duplicating this literal "isValid: " 3 times.(üìÓt
+Isquid:S1135"2Complete the task associated to this TODO comment.(Æçş¯
