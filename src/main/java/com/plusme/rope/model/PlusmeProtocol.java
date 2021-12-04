@@ -7,7 +7,7 @@ public final class PlusmeProtocol {
   private PlusmeProtocol() {}
   public static void registerAllExtensions(
       com.google.protobuf.ExtensionRegistryLite registry) {
-  }
+  }人退哦
 
   public static void registerAllExtensions(
       com.google.protobuf.ExtensionRegistry registry) {

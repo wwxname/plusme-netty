@@ -3,9 +3,6 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.m2/repository/log4j/log4j/1.2.15/log4j-1.2.15.jar!/" />
     </CLASSES>
-    <JAVADOC>
-      <root url="jar://$USER_HOME$/.m2/repository/log4j/log4j/1.2.15/log4j-1.2.15-javadoc.jar!/" />
-    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.m2/repository/log4j/log4j/1.2.15/log4j-1.2.15-sources.jar!/" />
     </SOURCES>
